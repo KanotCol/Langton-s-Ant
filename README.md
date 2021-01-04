@@ -1,2 +1,2 @@
-# Langton-s-Ant
+# Langton's-Ant
 Problema de algorítmica
